@@ -1,0 +1,10 @@
+*.tfstate
+*.tfvars
+.terraform/*
+.terraform.lock.hcl
+CodeRunnerState/*
+composer-module/dags/config.py
+composer-module/dags/api_dag.py
+composer-module/dags/function_api.py
+composer-module/dags/*.json
+composer-module/dags/__pycache__/*
